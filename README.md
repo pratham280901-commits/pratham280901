@@ -17,7 +17,7 @@ and protect profit margins.
 
 ---
 
-## 🚀 How to Run (Google Colab)
+## 🚀 How to Run 
 
 ### Step 1 – Open the Notebook
 1. Go to [colab.research.google.com](https://colab.research.google.com)
